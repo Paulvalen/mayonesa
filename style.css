@@ -1,9 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+h1{
+  font-family: Boogaloo,Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color:#1e2775;
+}
+
 img{
   width:500px;
 }
-h1{
-  
+header,article {  
   text-align: center;
 }
-
+h2,ul,p{
+  font-family: Boogaloo, Arial, Helvetica, sans-serif;  
+}
+h2{
+  color: #690d0d;
+  margin: 10px;
+}
 
